@@ -9,6 +9,7 @@ gem 'bootstrap-sass', '3.3.6'
 gem 'rails-controller-testing'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.1'
+gem 'bcrypt', '~> 3.1.11'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use Puma as the app server
